@@ -1,0 +1,517 @@
+<template>
+	<div class="container mt-5">
+		
+		<h2 class="text-center">Moto-Ya Connect Terms and Conditions CANADA</h2>
+
+		<h5 class="mt-4">1. Contractual Relationship</h5>
+
+		<p class="mt-3">
+			These Moto-Ya Connect Terms and Conditions – Canada (“Moto-Ya. Terms”) govern the access or use by you, an individual within Canada of any platform, group, websites, content, products and services (the “Moto-Ya Connect Services”) made available by Moto-Ya Connect from now on called Moto-Ya.
+		</p>
+
+		
+		<h6>Recommendations and Clarifications:</h6>
+
+		<p>
+			Moto-Ya may provide some services directly to “Users” (see its definition below in this document) or “Drivers” (see its definition below in this document) within a WhatsApp LLC or Facebook Messenger group or groups, those services do not include transportation of people or any type of delivery.
+		</p>
+
+		<p>
+			Moto-Ya are WhatsApp groups made up of drivers who decide to enter to take services required by users who are within the same group.
+			We are groups that grow by referrals, the name Moto-Ya Connect is just the name given to a group on WhatsApp to distinguish it.
+			The rules of the group or community are accepted by all the participants of the group as well as the sanctions.
+		</p>
+
+		<p>
+			By accepting these terms, you have affirmatively indicated your acceptance and subsequently, by continuing to access and use Moto-Ya Services. You agree to be bound by these Moto-Ya Terms, as may be amended from time to time, which establishes a contractual relationship between you and Moto-Ya. If you do not agree to these MOTO-YA Terms, at any time, you should not access or use the groups or services created or offered by MOTO-YA.
+		</p>
+
+		<p>
+			MOTO-YA may immediately terminate these MOTO-YA Terms or any MOTO-YA Services with respect to you, or generally cease offering or deny access to the Services, groups or any portion thereof, at any time for any reason.
+		</p>
+
+		<h6>Additional Terms:</h6>
+
+		<p>
+			Additional terms may apply to certain MOTO-YA Services, such as policies for a specific event, activity or promotion, or a particular category of MOTO-YA Services or groups. Additional terms will be provided to you in connection with the applicable MOTO-YA Services. You agree to abide by the MOTO-YA “Rules”. (See rules below in this document)
+		</p>
+
+		
+		<h6>1. Rules MOTO-YA Connect (MOTO-YA):</h6>
+
+		<p>
+			MOTO-YA designs the rules for the good of the "groups" or "community" from now on called (group of friends) which include Users, drivers, MOTO-YA employees and other parties that may be associated with the services provided by MOTO-YA or services provided by drivers. All in order to create a healthy, respectful and favorable environment for everyone.
+		</p>
+		
+		<p>
+			Thank you for joining our community of friends and helping us create a different and necessary environment.
+		</p>
+
+		<p>
+			The Rules below help explain some of the specific kinds of positive group of friend’s engagement on the group (WhatsApp and/or Facebook Messenger), as well as the behaviors or circumstances that may cause you to lose access to the group (WhatsApp and/or Facebook Messenger). These rules may be updated periodically, and we hope that everyone chooses to have the expected and stipulated behavior.
+		  Otherwise, their behavior could be seen as inappropriate, which would be a violation of the rules.
+		</p>
+
+		<h6>1.2 General Rules:</h6>
+
+		<p>
+			Everyone who belongs to some group of friends shall accept and follow the rules required for MOTO-YA and the community of friends (Drivers and Users).
+		</p>       
+
+		<p>
+			Groups of friends will be governed by respect, following the law, good intentions and friendly participation. Respect is governed by the very definition of the word which excludes acts such as discrimination or racism, physical aggression or psychological aggression, acts of sexual aggression or inappropriate sexual advances, violation of privacy, immoral behavior or any behavior that may affect stability. emotion of a participant of the group of friends. These general rules must be followed by all those who belong to the group of friends, including administrators, MOTO-YA and other participating members.
+		</p>
+
+		<h6>1.3 People under the age of 18:</h6>
+
+		<p>
+			You must be 18 years or older to be and require services within a friend group (WhatsApp or Facebook Messenger). This means that you must be at least 18 years old to ride unaccompanied in a vehicle. Account holders can't request a ride or delivery for someone under the age of 18 who will not be accompanied by either the account holder or another adult during the ride or when collecting the delivery.
+		</p>        
+
+		<h6>1.4 Extra riders</h6>
+
+		<p>
+			When driving with Moto-Ya, no one other than the driver, the requesting rider, and the rider’s guests should be in the vehicle. These rules apply unless our local rules, terms, or other policies say otherwise. When riding with Moto-Ya, the USER who requires the service in the group (WhatsApp or Facebook Messenger) is responsible for the behavior of their entire party. If you request a ride or a delivery for another adult, you’re held responsible for their behavior during their trip or delivery.
+		</p>        
+
+		<h6>1.5 Vehicle Information (Car,Taxi,Bike,SUV…)</h6>
+
+		<p>
+			When a driver takes a service from a group of friends, he must contact and provide the user requesting the service with information about his vehicle and
+			important information for the user such as: plates, type of vehicle, color, name of the driver and approximate time of arrival. This in order to give confidence to users and provide transparency in the provision of services. <br>
+			Drivers must complete trips and deliveries using only approved vehicles. To provide accurate information, let us know your vehicle information and provide any updates to your documentation that may become invalid, like a driver’s
+			license that’s about to expire.
+		</p>        
+
+		<h6>1.6 Helmets for Bikes, motorcycles and Scooters</h6>
+
+		<p>
+			The drivers of these vehicles are recommended to use appropriate helmets corresponding to what the law requires, and they are also required to use helmets with accepted quality standards at the time a passenger transport service is provided in this type of vehicle. Before providing the passenger transport service by these drivers, the user must know and accept that they will be picked up in a vehicle such as: Motorcycle, bike or similar.
+		</p>        
+
+		<h6>1.7 Use of Dashcams by Drivers</h6>
+		
+		<p>
+			Drivers may choose to install and use a dashcam, which can be used to record rides and provide evidence to Moto-Ya, law enforcement, or insurance companies in the event that something goes wrong on a ride. Please note the following:
+		</p>       
+
+		<p>
+			Riders entering a rideshare vehicle with a dashcam may be concerned about how the video, their image, or conversations captured by a dashcam will be used. In some locations, local laws and regulations require that a rider provide consent to being recorded. Please check your local laws to understand your responsibilities. <br>
+			Drivers may submit recordings to MOTO-YA at their discretion. MOTO-YA will review  submitted footage and take all action consistent with terms of use. <br>
+			Sharing or streaming a person’s image or audio or video recording on social media or in other digital or physical public locations is a violation of our RULES and may prompt further investigation by our safety team and even and even reach a civil or criminal proceeding.
+		</p>
+
+		<h6>1.8 Proper Vehicle Care</h6>
+
+		<p>
+			Drivers affiliated with Moto-Ya are expected to maintain their vehicle with the required traffic standards and vehicle inspections according to what is stipulated by the insurance or car sales companies, for example, brakes, seat belt, oil, tires or any part that may affect the proper operation of the vehicle or that may affect the physical safety of a user.
+		</p>        
+
+		<h6>1.9 Food Handling</h6>
+
+		<p>
+			Users requesting food delivery services are expected to handle food under established food quality and handling standards. To provide a better and healthier service to the end user, merchants are expected to seal their packages and thus reduce costs. the risk of any virus, bacteria or contagion that can spread in them. The Drivers should deliver orders safely and in accordance with relevant safety standards. For example, they may not tamper with or open packaging during delivery.
+		</p>   
+
+		
+		<h6>2.0 Alcohol Delivery</h6>        
+
+		<p>
+			All orders that contain alcohol must comply with any applicable laws and restrictions on off-premises alcohol delivery and hours of service. Only users who are the legal age to buy alcohol (19 years old CANADA), and not intoxicated, can order and receive alcohol deliveries where such deliveries are available. The users will be asked to show government-issued photo IDs to verify age and identity when an alcohol delivery arrives. If the user does not have a valid government-issued photo ID, or appears intoxicated, the alcohol portion of the order will not be able to be delivered and may be returned to the seller, the price of the delivery must be paid by the user in the same way. <br>
+			The users may not place an order that includes alcohol to be delivered to a public location where open containers are prohibited, or to any other areas where possession or consumption of alcohol is prohibited by law.
+		</p>
+		
+
+		<h6>2.1 Prohibited Articles</h6>
+
+		<p>
+			Users cannot send any article, food or goods prohibited by law or that may affect the safety of the driver. In the event that a user sends or attempts to send a prohibited item, the driver may deny the service or cancel it, in addition to notifying the administrators of the group of friends, this user can be suspended or permanently removed from the group of friends if so, stipulated by MOTO-YA.
+		</p>
+
+
+		<h6>2.2 Car Seats</h6>
+
+		<p>
+			Children aged 12 and under should travel in the back seat. <br>
+			When picking up riders traveling with small children, drivers can give them extra time to properly install a car seat before driving off. If a rider doesn’t have the appropriate car seat, if a driver is not comfortable with a rider installing one in their car, if a child does not appear to be within the height and weight safety requirements for the car seat, or if a driver otherwise feels that the child cannot be safely transported in the seat, the driver can cancel the ride.
+		</p>
+		
+
+		<h6>2.3 Service Animal</h6>
+
+		<p>
+			Drivers may not deny a ride to a rider with a service animal or assistive devices (such as a wheelchair or crutches) because of the service animal or assistive devices. Applicable laws generally prohibit drivers from denying service to riders because of their service animals or assistive devices, and from otherwise discriminating against riders with service animals or assistive devices. Knowingly refusing a rider a trip because of their service animal or assistive devices will result in losing access to the group of friends. <br>
+			In Canada, a driver can request documentation from a rider if a service animal is not easily identifiable as one.
+		</p>
+
+		<h6>2.4 Fraud</h6>
+
+		<p>
+			Intentionally falsifying information or assuming someone else’s identity for example by having a number in order to hinder the service deliberately increasing the delivery distance or a trip for fraudulent purposes as well as not providing real personal information at a checkpoint. Accepting or scheduling services without the intention of completing them, which includes causing the user to cancel the service, creating profiles or fictitious numbers for fraudulent purposes, pretending to complete a delivery without even picking up the order or the user, as well as not delivering the entire order and intentionally staying with part of the order, actions aimed at interrupting or disturbing the normal functioning of the group of friends, falsifying documents, resumes or any other type of document necessary or required by MOTO-YA. <br>
+			According to these MOTO-YA You can at your disposal sue, remove, suspend or deny access to a driver or a user when appropriate.
+		</p>
+
+		<h6>2.5 Customer Service & Ratings</h6>
+
+		<p>
+			Each group of friends has administrators who will be in charge of ensuring the proper functioning of the group and compliance with the stipulated rules, the administrator also acts as a customer service representative, any user can complain to him, assess the service, give an opinion , give his point of view of the service or any requirement that the user needs, he will be obliged to respond and try as much as possible to solve the problem or complaint given. WhatsApp groups will have in their description a 24-hour service assessment link where any user can access at any time and provide respectful opinions, complaints or claims to be addressed. <br>
+			Each driver's rating helps us improve the system and improve the service provided by drivers by focusing on such feedback, each complaint or claim against a driver will be analyzed and recorded by MOTO-YA in this way have control over the services provided by drivers. Drivers who do not meet the standards of good service delivery, that is, after receiving 3 complaints of the same type, ignore the call for attention, they can be removed from the groups of friends by the administration (MOTO-YA).
+		</p>
+
+		<h6>2.6 Delivery, order and trip acceptance</h6>
+
+		<p>
+			Users are recommended to request the service in advance if possible, specifying the time and type of service (person transportation, package delivery, purchase, etc.) the user can send the location to the group or write the service they want , you must provide the exact address or a nearby area in the group so that the driver can take the service in a timely and efficient manner, the more detailed the service, the more likely it will be taken faster. The driver will take the service by selecting the customer's message and sending a sticker (provided by MOTO-YA, WhatsApp LLC or Facebook Messenger), as well as being able to ignore the service and not take it. <br>
+			Moto-Ya will try as far as possible to fulfill 100% of the services, if not, after a prudent waiting time for the user (20 min or 30 min) some administrator of the group may send a TEMPLATE which will notify the user that there are no drivers available in the area at that time. The driver can connect at the time stipulated by himself and will have the freedom to choose the working time as he is available. <br>
+			Moto-Ya does not guarantee that your service will be taken. <br><br>
+
+			Failure to comply with the provisions will be enough to lose access to the group of friends partially or permanently
+		</p>
+
+
+		<h5>2. Terms for friend group access and appropriate use</h5>
+
+		<p>
+			These terms govern the correct use of the groups created by MOTO-YA in existing mobile applications (WhatsApp LLC and Facebook Messenger) a company based in Vaughan-Ontario Canada with address xxxx, which allows users to be added (people who request the service of transportation of person, purchases or addresses through the group) and drivers (third parties with whom MOTO-YA create a contract in which they agree to follow the rules, policies and terms established by MOTO-YA who are responsible for providing the service requested by the user with their own vehicles), in different groups (collectively called "groups of friends"), to connect a common need between them, which is the provision of transportation services, package deliveries, meals or purchases of one and the need for the opportunity to work.
+		</p>
+
+		<h5>3. Amendment & Notifications</h5>
+
+		<p>
+			MOTO-YA may amend the MOTO-YA Terms, any supplemental terms or policies (including the Rules) related to the MOTO-YA Services from time to time. MOTO-YA will provide you with notice in the event of a material change to any MOTO-YA Terms or Rules, policies or additional terms that detrimentally affects your rights under these MOTO-YA Terms.
+		</p>
+
+
+		<h5>4. Privacy</h5>
+
+		<p>
+			We do not collect any type of personal information other than the user's phone number (when it should be included in a group of WhatsApp friends) or the name of the user registered in the Facebook account (Meta), when he wishes to enter or be added to a Facebook Messenger group. We believe that the data and privacy of each person are a value and a right that must be kept by each one. If some type of personal information is required from a user, the reason will be made known by MOTO-YA or administrators, but this will not be a reason to be excluded from using the services.
+		</p>
+
+		
+		<h5>5. MOTO-YA Services & Operation</h5>
+
+		<h6>5.1 Groups</h6>
+
+		<p>
+			The services provided or offered by MOTO-YA will be governed under these terms. Moto-Ya They are groups created or organized in mobile applications recognized, used and accepted by a large part of society such as social networks or messaging applications, in this specific case (WhatsApp LLC & Facebook Messenger). These groups now called "Friend groups" are created to connect Users (see definition below) who wish to request or schedule transport, purchase or delivery services (packages, meals, documents) and drivers who have an agreement with MOTO-YA (see its definition below), who wish to provide such services to users.
+		</p>
+
+		<h6>5.2 Communication and service required</h6>
+
+		<p>
+			The request for the service is made through the group of friends by the user, who can write, send a voice note, send location or specify in an understandable way the service required so that the driver who is willing and available to provide the service can take it and do it. Once the service is taken, the driver will communicate directly with the user (a message sent to the user's private chat of the same application where the service was requested) to confirm the service and provide information about his vehicle and thus provide said service in a transparent and professional manner. Once the service is taken, the communication between User-Driver will be in media outside the group of friends.
+		</p>
+		
+		<h6>5.3 Restrictions & Clarifications</h6>
+
+		<p>
+			The MOTO-YA Services are made available solely for your personal, non-commercial use, unless MOTO-YA has agreed with you otherwise in a separate agreement. You acknowledge that:
+		</p>
+
+		<ul>
+			<li>
+				MOTO-YA does not provide transportation services or function as a transportation carrier, all such transportation services are provided by drivers which are independent drivers contractors who are not employed by MOTO-YA.
+			</li>
+			<li>
+				MOTO-YA does not provide delivery services and delivery services provided by Drivers which are affiliated to MOTO-YA groups who are not employed by MOTO-YA.
+			</li>
+			<li>
+				Drivers Providers are solely responsible for the services they provide to you.
+			</li>
+		</ul>
+
+	
+		<h5>6. License</h5>
+
+		<p>
+			Subject to your compliance with these MOTO-YA Terms, MOTO-YA grants you a limited,              non-exclusive, non-sublicensable, revocable, non-transferable license to:
+		</p>
+		
+		<ul>
+			<li>
+				Access and use the Group of friends on your personal device solely in connection with your use of the MOTO-YA Services.
+			</li>
+			<li>
+				Access and use any content, information and related materials that may be made available through the Group of Friends, in each case solely for your personal, non-commercial use.
+			</li>
+		</ul>
+
+		<p>Any rights not expressly granted herein are reserved by MOTO-YA</p>
+
+		
+		<h5>7. Provision of MOTO-YA Services</h5>
+		    
+		<p>
+			You acknowledge that portions of the MOTO-YA Services may be made available under MOTO-YA Connect brand or request options associated with transportation or delivery services (Meals, packages, documents, buys, goods).
+		</p>
+		
+		<p>
+			You also acknowledge that the MOTO-YA Services may be made available under MOTO-YA Connect brand or in connection with drivers affiliated.
+		</p>
+		
+
+		<h5>8. Driver’s services & Apps</h5>
+
+		<p>
+			The MOTO-YA Services may be made available or accessed in connection with driver’s services and content (including advertising) that MOTO-YA does not control. You acknowledge that different terms of use and privacy policies may apply to your use of such Driver’s services and content. MOTO-YA does not endorse such driver’s services and content and in no event shall MOTO-YA be responsible or liable f or any products or services of such Driver’s providers.
+		</p>
+
+		<h6>8.1 Apps</h6>
+
+		<p>
+			You acknowledge and agree that to use the service provided by MOTO-YA Connect does not need to download any application created, made, by MOTO-YA Connect if not that this service is based on existing mobile applications which have their own terms, conditions of use, licenses and privacy policies which you as a user and/or driver have already read and previously accepted. You further agree that these MOTO-YA Connect are entirely between you and MOTO-YA Connect and not with the applications or application store and are exclusively for the use of the service already described. You acknowledge and agree that mobile applications (WhatsApp LLC and/or Facebook Messenger 'Meta') or application stores (Apple inc, Android, Blackberry Limited, Google, Microsoft Corporation) will not be involved in any legal dispute, problem , service complaint, accident, inconvenience or any act beyond the control of said applications, stores and even MOTO-YA Connect
+		</p>
+
+
+		<h5>9. Guarantee Services</h5>
+
+		<p>
+			Moto-Ya does not guarantee that you can provide or accept the services offered by the behaviors at all times, although these can be requested at any time, however MOTO-YA guarantees that it will make the best possible effort so that 100% of the  services are provided by its affiliates, drivers.
+		</p>  
+		
+
+		<h5>10. Users</h5>
+		    
+		<p>
+			People included in one or more of the MOTO-YA (Group of Friends) and who request or require services will be called 'users'. Users can be businesses, entities or individuals, they can request a service in the way that is convenient for them (audio, text, sending location), they can request shopping services, deliveries in their different forms (food, packages, goods) and people transportation services. Users acknowledge and accept that they will be in a group with more users, with drivers willing to take their services in whatever way possible and that the messages, texts, videos, audios, images that they request will be seen, read by other users, drivers and members of the MOTO-YA as its administrators. <br>
+			Users acknowledge and agree that the services requested will be for themselves and that no other person can use the group of friends on their behalf, that the services they request are always with good intention and that the purposes for
+			which the group is used of friends are entirely legal and that they will use the group of friends expressly for what they are willing to do.
+		</p>
+		
+		
+		<h5>10.1 User Requirements</h5>
+
+		<p>
+			The MOTO-YA group friend Services are not available for use by persons under the age of 18. You may not authorize other person to use your Account, and you may  not allow persons under the age of 18 to receive:
+		</p>
+
+		<ul>
+			<li>
+				Transportation services from other person Providers unless they are accompanied by you.
+			</li>
+			<li>
+				Delivery services from other person Providers Also:
+			</li>
+			<li>
+				You agree to take full responsibility for the acts or omissions of the persons under the age of 18.
+			</li>
+			<li>
+				You agree to comply with all applicable laws when accessing or using the MOTO-YA Group friend Services
+			</li>
+			<li>
+				You may only access or use the MOTO-YA Groups friend Services for lawful purposes (e.g., no transport of unlawful or hazardous materials)
+			</li>
+			<li>
+				You will not, in your use of the MOTO-YA groups Friend Services, cause nuisance, annoyance, inconvenience, or property damage, whether to the drivers Provider or any other party, including MOTO-YA, or any of their employees.
+			</li>
+		</ul>
+		            
+		<p>
+			In certain instances, you may be asked to provide proof of age, identity, or other method of identity verification to access or use the MOTO-YA Groups Friend Services, and you agree that you may be denied access to or use of the MOTO-YA Group friend Services if you refuse to provide proof of identity or other method of identity verification.
+		</p>
+
+		
+		<h6>10.1.1 Car Seats</h6>
+
+		<p>
+			If you request a ride option with a car seat, you acknowledge and agree that neither MOTO-YA nor the Driver is responsible for the safety of a child restraint/car seat that may be available in the Driver Providers’ vehicle. You acknowledge and agree that it is your obligation to ensure that the car seat is installed correctly, and that the child is properly secured in the seat.
+		</p>
+
+		<h6>10.1.2 User Content (Images,texts, Videos, audios)</h6>
+
+		<p>
+			You at your discretion can send different content in the group of friends for the specific purpose of requesting a service, any content sent by you remains your property, however any content sent will also be seen, read, by the members of that group of friends, so you are responsible for sending errors, malicious sending or what other users of that same group of friends can do with this content.
+			<br>
+			you grant MOTO-YA a worldwide, perpetual, irrevocable, transferable, license for no fee, with the right to sublicense, to use, copy, modify, create derivative works of, distribute, publicly display, publicly perform, and otherwise exploit in any manner such User Content in all formats and distribution channels now known or hereafter devised, without further notice to or consent from you, and without the requirement of payment to you or any other person or entity.
+			<br>
+			You represent and warrant that:
+		</p>
+
+		<ul>
+			<li>
+				you either are the sole and exclusive owner of all User Content or you have all rights, licenses, consents and releases necessary to grant MOTO-YA and the license to the User Content as set forth above.
+			</li>
+			<li>
+				Neither the User Content nor your submission, uploading, publishing or otherwise making available of such User Content nor MOTO-YA’s use of the User Content as permitted here in will infringe, misappropriate or violate a  third party’s intellectual property or proprietary rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
+			</li>
+		</ul>
+
+		<p>
+			You agree to not provide User Content that is defamatory, libelous, hateful, violent, obscene, pornographic, unlawful, or otherwise offensive, as determined by MOTO-YA in its sole discretion, whether such material may be protected by law. MOTO-YA may, but is not obligated to, review, monitor, or remove User Content,  at MOTO-YA’s sole discretion and at any time and for any reason, without notice to you.
+		</p>
+
+		
+		<h6>10.3 Cancellations of Services</h6>
+		
+		<p>
+			Any user can cancel the requested service at any time although this may cause cancellation charges, depending on how much time the driver has spent on the previously requested service.
+			Although there is no exact calculation of the time that must elapse to be able to cancel the service after having requested it without being fined a cancellation fee, the fact of having a driver mobilize may incur cancellation expenses for the user. If the driver demands a payment for said canceled service and the user for some reason does not want to cancel the cancellation charge, any MOTO-YA may lead to an agreement between the parties, if the user persists in not paying there cancellation fee after MOTO-YA so determined, he may be partially or permanently  expelled from the group of friends.
+		</p>
+		
+		<p>
+			In the case of purchases of products, meals, services or any purchase that involves a driver spending time, money or any expense exchangeable for money, if the driver has incurred such expense and the user cancels the purchase service, The User must pay the driver for said purchases plus the
+			service fee, this payment can be via e-transfer, cash or as the User-Driver agrees or agrees between them.
+			<br>
+			If the cancellation of the service is due to fault, incompetence, inexperience, negligence, irresponsibility or lack of knowledge on the part of the driver and this is proven by a MOTO-YA This user will not have to pay cancellation fees nor the products or services purchased by the driver.
+			<br><br>
+			The price of the cancellation fee charges will be reasonable charges and will never exceed the amount that the service would have cost regularly.
+			<br><br>
+			If in the purchase services the User transfers or pays the money to the driver before making the purchase so that said driver can perform the service, you as a User accept and acknowledge that what may happen with your money is under your responsibility, for example in the case of being robbed, lost, scammed. Although MOTO-YA has information on all registered or affiliated drivers and makes sure that each one of them knows the rules, terms and conditions, privacy policies and more, it is not under their responsibility what each driver can do for himself as a provider of independent service.
+		</p>
+		
+		
+		<h5>11. Payment</h5>
+
+		<p>
+			Payments for the services provided by drivers, whether deliveries, purchases or transportation of people, will be made between you, the 'User', and the driver, who will charge the service based on the 'Meter' application (application used to calculate prices according to time). and distance).
+			<br>
+			There is another way to calculate an anticipated price for the service. Moto-Ya Co created a website where people can check the price of services before requesting them. This application works based on google maps, therefore the price of the services varies over time and the time varies depending on the time and state of the roads at that specific moment.
+			<br>
+			This is the link of the website. https://www.preciomv.com/ca/
+			<br><br>
+			Drivers and users can agree and agree on the price of the service using this application. So, the driver already knows when he should charge for that service and the user would already know when he would be charged.
+			<br><br>
+			If you are not very sure of the price given by the preciomv.com/ca application, you should resort to using the meter application.
+			<br><br>
+			The payment method will be the one agreed between you 'User' and the driver, which may be Cash, E-Transfer, Pay-Pal, Transfer, cryptocurrencies or any payment method agreed between both. Each group of friends has administrators who are responsible for ensuring the proper functioning of the group of friends and compliance with the rules, who can be given complaints about usury rates charged by drivers. The payment of the services offered by the drivers is final and is not refundable unless MOTO-YA determine otherwise.
+			The driver must show the rate marked by the application to the User and if due to internet failures or some problem with the application it does not determine a reasonable value for the service. The driver should consult the price on the website https://www.preciomv.com/ca/. 
+			Otherwise, the driver or the user can go to an administrator of the group of friends to conclude a reasonable price for the service. 
+			<br><br>
+			In purchases, users can pay the value of the product first to the driver or can request the service for the driver to buy the product (meals, products, packages), at the end of the service the User must pay the driver the value of the product plus the value of the service, determined by the application. These types of services are agreements that are first agreed between the User and the driver, MOTO-YA does not obligate either party to make any type, form of payment or specific                    arrangement.
+			MOTO-YA does not collect any money from the Users for the services provided by the  drivers, however it can offer a product or service that is useful to the User and that the User can buy, use or rent it.
+			<br><br>
+			You acknowledge that a MOTO-YA Drivers may establish or adjust Third Party charges for any or all services or goods obtained through the use of the MOTO-YA services at any time at the direction of the Third-Party Provider or otherwise in the MOTO-YA Driver discretion, including in certain circumstances such as where you choose an additional service that incurs an additional charge.
+		</p>
+		
+
+		<h5>12. Disclaimers, Limitation of Liability</h5>
+
+		<p>
+			MOTO-YA shall not be liable in connection with these MOTO-YA Terms. for any Service of delivery, purchase or transportation of people.
+		</p>
+
+		
+		<h5>12.1 DISCLAIMER</h5>
+
+		<p>
+			MOTO-YA DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, NOT EXPRESSLY SET OUT IN THESE MOTO-YA TERMS INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND MAKE NO REPRESENTATION, WARRANTY, OR GUARANTEE REGARDING THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY OR AVAILABILITY OF MOTO-YA OR ANY SERVICES OR GOODS REQUESTED BY YOU THROUGH THE USE OF THE GROUP’S SERVICES (FRIEND’S GROUP), OR THAT THE MOTO-YA SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. MOTO-YA DOES NOT GUARANTEE THE QUALITY, SUITABILITY, SAFETY OR ABILITY OF DRIVERS. YOU AGREE THAT THE ENTIRE RISK ARISING OUT OF YOUR USE OF THE MOTO-YA SERVICES THROUGH FRIEND’S GROUPS AND ANY SERVICES OR GOODS REQUESTED BY YOU THROUGH THE USE OF THE MOTO-YA SERVICES, REMAINS SOLELY WITH YOU, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW. MOTO-YA DOES NOT CONTROL, MANAGE OR DIRECT ANY DRIVERS PROVIDERS. DRIVERS ARE NOT ACTUAL AGENTS, APPARENT AGENTS, OSTENSIBLE AGENTS, OR EMPLOYEES OF MOTO-YA MOTO-YA DOES NOT CONTROL, ENDORSE OR TAKE RESPONSIBILITY FOR ANY USER CONTENT OR DRIVER CONTENT AVAILABLE ON OR LINKED TO BY THE SERVICES.
+		</p>
+
+		<h6>12.2 Liability</h6>
+
+		<p>
+			MOTO-YA SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOST DATA, PERSONAL INJURY OR PROPERTY DAMAGE RELATED TO, IN CONNECTION WITH, OR OTHERWISE RESULTING FROM ANY USE OF THE SERVICES, EVEN IF MOTO-YA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. MOTO-YA SHALL NOT BE LIABLE FOR ANY  DAMAGES, LIABILITY OR LOSSES ARISING OUT OF:
+		</p>
+
+		<ul>
+			<li>
+				ANY TRANSACTION OR RELATIONSHIP BETWEEN YOU AND ANY DRIVER, EVEN IF MOTO-YA HAS BEEN ADVISED OF THE POSSIBILITY OF  SUCH DAMAGES
+			</li>
+		</ul>
+
+		<p>
+			MOTO-YA SHALL NOT BE LIABLE FOR DELAY OR FAILURE IN PERFORMANCE  RESULTING FROM CAUSES BEYOND MOTO-YA’S REASONABLE CONTROL. <br>
+			MOTO-YA SHALL NOT BE LIABLE FOR ANY DAMAGES, LIABILITY OR LOSSES ARISING OUT OF LACK OF OR IMPROPER INSTALLATION OR USE OF CHILD RESTRAINT SYSTEMS FOR GUESTS ON RIDES REQUESTED THROUGH THE SERVICES FOR WHOM A CHILD RESTRAINT SYSTEM IS LEGALLY REQUIRED. <br>
+			IN NO EVENT SHALL MOTO-YA’S TOTAL LIABILITY TO YOU IN CONNECTION WITH THE SERVICES FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION EXCEED FIVE HUNDRED CANADIAN DOLLARS (CAD $500).<br>
+			THE MOTO-YA GROUP OF FRIENDS MAY BE USED BY YOU TO REQUEST AND SCHEDULE TRANSPORTATION, GOODS, LOGISTICS OR DELIVERY SERVICES WITH DRIVERS BUT YOU AGREE THAT MOTO-YA HAS NO RESPONSIBILITY OR LIABILITY TO YOU RELATED TO ANY TRANSPORTATION, GOODS, DELIVERY OR FOOD DELIVERY PROVIDED TO YOU BY DRIVERS.
+		</p>
+
+		
+		<h6>12.3 Indemnity</h6>
+
+		<p>
+			You agree to indemnify and hold MOTO-YA and its Administrators, employees and agents harmless from any and all claims, demands, losses, liabilities, and expenses (including reasonable attorneys’ fees) arising out of or in connection with:
+		</p>
+
+		<ul>
+			<li>
+				Your use of the MOTO-YA ‘GROUPS OF FRIENDS’ or services or goods  obtained through your use of the MOTO-YA GROUPS.
+			</li>
+			<li>
+				Your breach or violation of any of these MOTO-YA Terms.
+			</li>
+		</ul>
+
+		<h5>GOVERNING LAW</h5>
+
+		<p>
+			These MOTO-YA Connect Terms shall be exclusively governed by and construed in accordance with the laws of the province of Ontario and the federal laws of Canada applicable therein, without regard to conflict of law principles.
+		</p> 
+
+		<h5>13. DISPUTE RESOLUTION</h5>
+
+		<p>
+			TO READ: YOU WILL HAVE TO RESOLVE DISPUTES THROUGH ARBITRATION. YOU WILL NOT BE ELIGIBLE TO GET MONEY OR OTHER RELIEF THROUGH A COURT PROCEEDING.
+		</p>
+
+		<h5>13.1 ARBITRATION REQUIREMENT</h5>
+
+		<p>
+			You are free to get advice or representation from a lawyer about this arbitration requirement.
+		</p>
+
+		<p>
+			Unless prohibited by law, all disputes arising out of or relating in any way to:
+		</p>
+
+		<ul>
+			<li>
+				MOTO-YA Terms, MOTO-YA Connect, MOTO-YA Services
+			</li>
+			<li>
+				Your access to the friend’s group as a User or Driver.
+			</li>
+			<li>
+				
+			</li>
+		</ul>     
+
+		<p>
+			any other MOTO-YA Service branded product will be finally and conclusively adjudicated and resolved by arbitration under the Arbitration Rules (“ADRIC
+			Rules”) of the ADR Institute of Canada, Inc. (“ADRIC”), except as modified here. The arbitration will be in English. The arbitration may be held anywhere the arbitrator considers appropriate, including remotely by telephone or Internet.
+			<br><br>
+			The ADRIC Rules is available by, for example, searching < www.google.ca > to locate “ADRIC Arbitration Rules” or by clicking here. You can also contact ADRIC at
+			1-877-475-4353 or < www.adric.ca >.
+			<br><br>
+			You will have to pay some fees to arbitrate, as described in the ADRIC Rules.
+			<br><br>
+			However, before beginning the arbitration, the party with the claim will first try to
+			informally negotiate with the other party, in good faith, a resolution of the dispute for not less than 30 days but no more than 45 days unless extended by agreement. During the negotiation period, any otherwise applicable limitation period will be tolled (temporarily suspended).
+			<br><br>
+			Nothing here prevents you from filing a claim with a government agency.
+			<br><br>
+			Where you allege claims of sexual assault or sexual harassment, you may choose to bring those specific claims in court instead of arbitration. MOTO-YA agrees to honour your  choice of forum with respect to your individual sexual harassment or sexual assault claim.
+		</p>
+
+		<p>
+			This arbitration requirement survives:
+		</p>
+
+		<ul>	
+			<li>The termination of this Agreement.</li>
+			<li>
+				The bankruptcy of any party. If any part of it is deemed invalid or unenforceable, the other parts remain in force.
+			</li>
+		</ul>
+
+		<p>
+			MOTO-YA CONNECT TERMS & CONDITIONS CA.
+		</p>
+	
+
+	</div>
+</template>
+
+
+<style scoped>
+
+	p, li {
+		font-size: 11px;
+	}
+
+	p {
+		text-align: justify;
+	}
+
+</style>

@@ -1,0 +1,110 @@
+/* Fonts */
+@font-face {
+  font-family: 'montserrat-regular';
+  src: url(../fonts/Montserrat-Regular.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'montserrat-medium';
+  src: url(../fonts/Montserrat-Medium.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'montserrat-bold';
+  src: url(../fonts/Montserrat-Bold.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'montserrat-semibold';
+  src: url(../fonts/Montserrat-SemiBold.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'chunkfive-regular';
+  src: url(../fonts/ChunkFive-Regular.otf);
+  font-display: swap;
+}
+
+.font-montserrat-regular {
+  font-family: 'montserrat-regular'
+}
+
+.font-montserrat-medium {
+	font-family: 'montserrat-medium'
+}
+
+.font-montserrat-semibold {
+	font-family: 'montserrat-semibold'
+}
+
+.font-montserrat-bold {
+	font-family: 'montserrat-bold'
+}
+
+.font-chunkfive-regular {
+  font-family: 'chunkfive-regular'
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'chunkfive-regular' !important;
+}
+
+
+body {
+  font-family: 'montserrat-medium';
+}
+
+
+.btn {
+  font-family: 'chunkfive-regular'
+}
+
+.btn-blue {
+  background: #00599c;
+  color: white !important;
+}
+
+.btn-orange {
+  background: rgb(255, 138, 26);
+  color: white !important;
+}
+
+.btn:hover {
+  background: #32373c;
+}
+
+.text-orange {
+  color: rgb(255, 138, 26);
+}
+
+.text-blue {
+  color: #00599c;
+}
+
+
+/* Error form */
+.error {
+  color: #dc3545;
+}
+
+
+/* inputs */
+.form-control, select {
+  border-radius: 0px !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+
+/* alert bootstrap */
+
+.alert {
+  font-size: 13px !important;
+  font-weight: bold;
+  text-align: center;
+}
