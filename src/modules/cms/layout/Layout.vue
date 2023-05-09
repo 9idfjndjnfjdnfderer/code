@@ -67,7 +67,7 @@
 	      </li>	
 
 	      <li class="nav-item me-lg-4">
-	        <a class="nav-link" href="#" @click="logout()">
+	        <a class="nav-link" :href="domain" @click="logout()">
 	          <i class="fa fa-power-off fa-fw me-1"></i>
 	          <span class="text-light cms-nav-link-text">Log out</span>
 	        </a>
