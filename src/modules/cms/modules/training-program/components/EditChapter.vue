@@ -192,7 +192,7 @@
 				this.chapter.title = resp.data.title
 				this.chapter.video = resp.data.video
 				this.chapter.content = resp.data.content
-				this.chapter.show_link_whatsapp = resp.data.show_link_whatsapp
+				this.chapter.show_link_whatsapp = (resp.data.show_link_whatsapp == 1) ? true : false
 
 
 				setTimeout(()=> {
