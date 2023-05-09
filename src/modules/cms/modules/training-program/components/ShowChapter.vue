@@ -21,7 +21,7 @@
 
 
 				<!-- show link whatsapp -->
-				<div class="mt-5 mb-4" v-if="chapter.show_link_whatsapp == true">
+				<div class="mt-5 mb-4" v-if="chapter.show_link_whatsapp == 1">
 					
 					<div class="row">
 						<div class="offset-lg-2 col-lg-8">
