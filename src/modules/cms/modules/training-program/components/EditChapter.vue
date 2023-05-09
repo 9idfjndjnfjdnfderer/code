@@ -5,7 +5,7 @@
 			<div class="offset-lg-1 col-lg-10">
 				
 
-				<form @submit.prevent="update()" id="chapter-update-form">
+				<form @submit.prevent="update()" id="chapter-update-form" v-if="chapter.title != null">
 					
 					<div class="form-group">
 						<label class="form-label">Title</label>
