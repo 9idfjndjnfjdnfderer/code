@@ -117,7 +117,7 @@
 					title: null,
 					video: null,
 					content: null,
-					show_link_whatsapp: null
+					show_link_whatsapp: false
 				},
 
 				loadingVideo: false
