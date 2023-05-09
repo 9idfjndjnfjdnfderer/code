@@ -91,6 +91,11 @@
 					     	<select class="form-select" name="city" id="city" v-model="user.city">
 					     		<option value=""></option>
 					     		<option value="Toronto">Toronto</option>
+					     		<option value="Vaughan">Vaughan</option>
+					     		<option value="Brampton">Brampton</option>
+					     		<option value="Missisauga">Missisauga</option>
+					     		<option value="Markham">Markham</option>
+					     		<option value="Scarborough">Scarborough</option>
 					     	</select> 
 					    </div>
 
