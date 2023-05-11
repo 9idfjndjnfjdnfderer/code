@@ -7,7 +7,7 @@
 		<div class="text-center" id="cms-header-resp">
 			<div class="row">
 				<div class="offset-sm-5 col-sm-2 offset-4 col-4">
-					<router-link to="/">
+					<router-link to="/cms/">
 						<img src="@/assets/img/logo.webp" class="w-100" id="cms-logo-resp">
 					</router-link>
 				</div>
@@ -93,7 +93,7 @@
 				<ul class="nav flex-column" id="cms-sidebar-menu">
 
 					<li class="nav-item text-center pb-4" id="cms-logo-content">
-						<router-link to="/">
+						<router-link to="/cms/">
 							<img src="@/assets/img/logo.webp" id="cms-logo">
 						</router-link>
 					</li>

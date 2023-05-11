@@ -3,7 +3,7 @@
 	<div id="testimonial">
 		
 			
-		<h4 class="pb-2" id="testim-title">PROOF OF SUCCESS, MOTO-YA</h4>
+		<h4 class="pb-2" id="testim-title">Moto-Ya Proof of Success</h4>
 
 		
 		<div class="container mt-5">

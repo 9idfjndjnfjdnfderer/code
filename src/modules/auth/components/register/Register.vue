@@ -93,7 +93,7 @@
 					     		<option value="Toronto">Toronto</option>
 					     		<option value="Vaughan">Vaughan</option>
 					     		<option value="Brampton">Brampton</option>
-					     		<option value="Missisauga">Missisauga</option>
+					     		<option value="Mississauga">Mississauga</option>
 					     		<option value="Markham">Markham</option>
 					     		<option value="Scarborough">Scarborough</option>
 					     	</select> 
