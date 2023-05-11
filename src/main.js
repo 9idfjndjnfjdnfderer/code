@@ -2,8 +2,8 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 
-Vue.prototype.backend = (process.env.NODE_ENV === 'production') ? 'http://easymotoyatrainingprogram.com/backend/api/' : 'http://localhost:80/motoya/backend/api/'
-Vue.prototype.domain = (process.env.NODE_ENV === 'production') ? 'http://easymotoyatrainingprogram.com' : 'http://localhost:3000'
+Vue.prototype.backend = (process.env.NODE_ENV === 'production') ? 'https://easymotoyatrainingprogram.com/backend/api/' : 'http://localhost:80/motoya/backend/api/'
+Vue.prototype.domain = (process.env.NODE_ENV === 'production') ? 'https://easymotoyatrainingprogram.com' : 'http://localhost:3000'
 
 Vue.config.productionTip = false
 
